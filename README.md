@@ -138,7 +138,7 @@ $ gem install colorize
 
 - GitHub: [@OXFORD-G](https://github.com/OXFORD-G)
 - Twitter: [@OXFORD2](https://twitter.com/OXFORD2)
-- Linkdin: [Linkdin](www.linkedin.com/in/chinonso-enekwechi-a96954193)
+- Linkdin: [Linkdin](https://linkedin.com/in/chinonso-enekwechi-a96954193)
 
 ## Show your support
 
