@@ -1,13 +1,10 @@
-class Ticket
-  def initialize(venue, date)
-    @venue = [venue 
-    @date = date 
-  end
+class Test
+  def yell_greeting(string)
+    @name = [string 
+    binding.pry
 
-  def fake_method(lines)
-    lines.each do |x|
-      puts x
-      
-  end
+    name = name.upcase
+    greeting = "WASSAP, #{name}!"
+    puts greeting
   
 end
